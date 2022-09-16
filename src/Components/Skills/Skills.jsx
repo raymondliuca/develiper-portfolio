@@ -1,8 +1,8 @@
 import React from "react";
 import './Skills.css';
 import { FaReact, FaPython, FaHtml5, FaCss3Alt, FaSass, FaNodeJs, FaGitAlt, FaAws } from "react-icons/fa";
-import { SiJavascript, SiCss3, SiExpress, SiMongodb, SiPostgresql, SiHeroku, SiSocketdotio, SiDjango } from 'react-icons/si'
-import { DiDjango, DiCss3, DiJqueryLogo, DiPostgresql } from 'react-icons/di'
+import { SiJavascript, SiExpress, SiMongodb, SiPostgresql, SiHeroku, SiSocketdotio, SiDjango } from 'react-icons/si'
+import { DiJqueryLogo } from 'react-icons/di'
 
 export default function Skills(props) {
     return (
