@@ -10,36 +10,36 @@ export default function (props) {
             <div class="project-cards">
 
             <ProjectCard
-                title=""
+                title="Stay-Put"
                 description=""
                 tech=""
                 login=""
-                githubLink=""
+                githubLink="https://github.com/Reidwids/Stay-Put"
                 link=""
             />
             <ProjectCard
-                title=""
+                title="PostBar"
                 description=""
                 tech=""
                 login=""
-                githubLink=""
-                link=""
+                githubLink="https://github.com/raymondliuca/PostBar-Backend"
+                link="https://postbar.herokuapp.com/"
             />
             <ProjectCard
-                title=""
+                title="Knife-Collection"
                 description=""
                 tech=""
                 login=""
-                githubLink=""
-                link=""
+                githubLink="https://github.com/raymondliuca/Knife-Collection"
+                link="https://raysknifecollection.herokuapp.com/"
             />
             <ProjectCard
-                title=""
+                title="BlackJack"
                 description=""
                 tech=""
                 login=""
-                githubLink=""
-                link=""
+                githubLink="https://github.com/raymondliuca/BlackJack"
+                link="https://raymondliuca.github.io/BlackJack/"
             />
            
 
