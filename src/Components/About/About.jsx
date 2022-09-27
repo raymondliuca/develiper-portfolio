@@ -22,7 +22,7 @@ export default function About(props) {
                 <p>
                     I am constantly seeking out new opportunities to contribute and expand my knowledge, and I look forward to joining a company where my experience will be utilized and valued.
                 </p>
-                <a class="button" href={Pdf} target='_blank'>Checnk my Resume</a>
+                <a class="button" href={Pdf} target='_blank'>Check my Resume</a>
             </section>
         </div>
     )
